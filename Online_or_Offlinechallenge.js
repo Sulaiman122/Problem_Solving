@@ -15,7 +15,7 @@ let data = [
     lastActivity: 104,
   },
 ];
-let nn = data['username'];
+
 let newData = {
   online: [nn],
   offline: [],
